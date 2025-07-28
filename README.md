@@ -28,7 +28,7 @@ I specialize in several frameworks such as:
 I am also skilled in design and capable of creating mockups and prototypes.
 I am able to manage projects from start to finish, while respecting deadlines and budgets.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NZabik&hide=hack&layout=donut&langs_count=8&theme=aura&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NZabik&hide=hack&layout=donut&langs_count=8&theme=aura&show_icons=true)
 
 <!--
 **NZabik/NZabik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
