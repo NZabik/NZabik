@@ -28,8 +28,6 @@ I specialize in several frameworks such as:
 I am also skilled in design and capable of creating mockups and prototypes.
 I am able to manage projects from start to finish, while respecting deadlines and budgets.
 
-[![NZabik's GitHub stats](https://github-readme-stats.vercel.app/api?username=NZabik&theme=aura&show_icons=true&include_all_commits=true)]
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NZabik&hide=hack&layout=donut&langs_count=8&theme=aura&show_icons=true)]
 
 <!--
