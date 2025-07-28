@@ -1,4 +1,32 @@
 ## Hi there 👋
+My name is Nicolas Zabik,
+At 41 years old, after working in the field of quality management, I embraced a career as an **Application Designer and Developer** following my diploma in **Web and Mobile Web Development**.
+
+My training has equipped me with strong skills in development, design, project management, and communication.
+My curiosity drives me to continuously learn.
+
+My passion for web and mobile development pushes me to constantly seek out new and stimulating projects.
+
+I particularly enjoy teamwork and am always ready to take on new challenges.
+
+Since the beginning of my training, I have successfully completed numerous projects, which has allowed me to gain solid experience in web and mobile development.
+
+I am proficient in several programming languages, including:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- among others.
+
+I specialize in several frameworks such as:
+- Symfony
+- WordPress
+- Angular
+- React Native
+- React
+
+I am also skilled in design and capable of creating mockups and prototypes.
+I am able to manage projects from start to finish, while respecting deadlines and budgets.
 
 <!--
 **NZabik/NZabik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
